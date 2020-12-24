@@ -17,4 +17,5 @@ for calculating how many AP credits students can apply for each undergraduate co
 
 ## Contact
 
+GitHub: https://github.com/and-le <br>
 Email: a1le@ucsd.edu
