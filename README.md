@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/and-le/and-le.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a junior student majoring in computer science at the University of California, San Diego. \
+Currently, I am working to learn more about the theory of and applications for topics such as machine learning, 
+computer vision, and software engineering. \
+One of my primary goals is providing others with information for better decision-making and improved productivity.
 
 ### Markdown
 
