@@ -8,7 +8,7 @@ My interests include finding applications for artificial intelligence and machin
 [Machine learning project](https://github.com/and-le/cse-151b-argoverse) detailing the effectiveness of various data transformation methods and neural network models on the task of motion forecasting for autonomous vehicles.
 
 ### Police Employment in the United States (2021)
-[Data science project](https://github.com/COGS108/FinalProjects-Sp21) identifying statistically significant predictor variables of police employment in U.S. cities, contributing to the literature on proportionate policing.
+[Data science project](https://github.com/COGS108/FinalProjects-Sp21/blob/main/FinalProject_group058.ipynb) identifying statistically significant predictor variables of police employment in U.S. cities, contributing to the literature on proportionate policing.
 
 ### UC San Diego Credit Tool (2020)
 A [web application](https://ucsd-college-credit-calculator.herokuapp.com/) 
