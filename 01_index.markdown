@@ -6,6 +6,6 @@ layout: home
 title: Home
 permalink: /
 ---
-Hi there! I'm Andrew, and this is my website. 
+Hi there! I'm Andrew, and welcome to my website! 
 I received my B.S. in Computer Science from the University of California San Diego in 2022, and I'm nearing completion of my M.S.
 in Computer Science from the University of California San Diego in June 2023.
