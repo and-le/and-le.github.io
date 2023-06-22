@@ -5,8 +5,8 @@ permalink: /experience/
 ---
 
 # Education
-- M.S. in Computer Science, University of California San Diego, 2023
-- B.S. in Computer Science, University of California San Diego, 2018-2022
+- MS in Computer Science, University of California San Diego, 2022-2023
+- BS in Computer Science, University of California San Diego, 2018-2022
 
 # Work Experience
 - Software Engineer Intern, Google, June - Sept 2022
